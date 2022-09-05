@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f4b5369-682c-4c6a-b7eb-24b0f4112cad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DS and Algo code/DS/Arrays vs list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS and Algo code/DS/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS and Algo code/DS/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS and Algo code/Leetcode/Best time to buy and sell stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS and Algo code/DS/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS and Algo code/DS/string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview prep/Leetcode problem map.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Interview prep/Leetcode problem map.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
